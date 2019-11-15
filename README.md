@@ -1,12 +1,12 @@
-# Name of Project
+# Starter Template
 
-#### Track Independent Project for Epicodus; Month Day, Year
+#### Starter Template for Epicodus; November 14, 2019
 
 #### By Courtney Schild
 
 ## Description
 
-The description goes here.
+_Write a description of the project here._
 
 ## Specs
 
@@ -25,7 +25,7 @@ The description goes here.
 
 This webpage may be viewed on any web browser and edited by following the instructions below to clone or download the repository to your computer.
 
-**Click [here](https://courtschmort.github.io/repository/) to open the GitHub Pages website.**
+**Click [here](https://courtschmort.github.io/starter-template/) to open the GitHub Pages website.**
 
 ###### From GitHub
 1. Click the **Clone or download** dropdown button.
@@ -33,7 +33,7 @@ This webpage may be viewed on any web browser and edited by following the instru
 
 ###### From the command-line interface (CLI)
 1. To change the directory, type `cd Desktop` after the command prompt.
-2. To clone the repository to your Desktop, type `git clone https://github.com/courtschmort/repository.git` after the command prompt. (This web URL can be located within the **Clone or download** dropdown button in GitHub.)
+2. To clone the repository to your Desktop, type `git clone https://github.com/courtschmort/starter-template.git` after the command prompt. (This web URL can be located within the **Clone or download** dropdown button in GitHub.)
 
 ###### Also from the CLI
 3. Type `npm install` to install the dependencies in the local node_modules folder.
@@ -52,7 +52,7 @@ If you have any questions, please email me at courtneyschild@gmail.com.
 Find me on LinkedIn and GitHub:
 
 * [Connect with me](https://www.linkedin.com/in/courtneyschild/) on LinkedIn
-* [Follow me](https://github.com/courtschmort) or [watch this repository](https://github.com/courtschmort/independent-project-order-pizza.git) on GitHub
+* [Follow me](https://github.com/courtschmort) or [watch this repository](https://github.com/courtschmort/starter-template.git) on GitHub
 
 ## Product Roadmap
 
