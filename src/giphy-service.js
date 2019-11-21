@@ -1,7 +1,7 @@
-export class WeatherService {
-  async getWeatherByCity(city) {
+export class GiphyService {
+  async getGifByHumidity(humidity) {
     try {
-      let response = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${process.env.weatherKey}`);
+      let response = await fetch(`http://api.giphy.com/v1/gifs/search?api_key=${process.env.giphyKey}&q=${humidity}&limit=5`);
       let jsonifiedResponse = await response.json();
       return jsonifiedResponse;
     } catch(error) {
